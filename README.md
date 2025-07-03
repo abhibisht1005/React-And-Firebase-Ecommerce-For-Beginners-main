@@ -66,6 +66,8 @@ Follow these steps to set up the project locally:
 
    ```bash
    npm install
+   npm install package.json
+   npm install package-lock.json
    ```
 
 4. **Set up Firebase:**
